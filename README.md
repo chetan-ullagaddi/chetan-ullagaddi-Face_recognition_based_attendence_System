@@ -87,12 +87,16 @@ OpenCV
 face_recognition Library
 
 dlib
+---
+## 👨‍💻 Developed By
 
-🤝 Connect With Me
-Chetan Ullagaddi
-📧 Email: ullagaddichetan2@gmail.com
-📍 Location: Belagavi, Karnataka, India
-🔗 LinkedIn: chetan-ullagaddi-31b999254
+**Chetan Ullagaddi**  
+📧 ullagaddichetan2@gmail.com  
+📍 Belagavi, Karnataka, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/chetan-ullagaddi-31b999254)
+
+---
+
 
 
 
